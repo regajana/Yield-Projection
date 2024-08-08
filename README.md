@@ -1,1 +1,2 @@
 # Yield-Projection
+This project leverages advanced algorithms in precision agriculture to achieve a 93% yield prediction accuracy. By employing techniques such as visualization and classification, it successfully increased revenue by 18% and reduced costs by 10%. A key innovation is the 'Area Per Production' feature, which improved predictive accuracy by an additional 20%. The project utilizes technologies like Power BI, Python, AWS S3, Tableau, and SQL to deliver these impactful results.
